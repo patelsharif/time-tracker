@@ -31,17 +31,17 @@
         <pluginManagement>
             <plugins>
                 <plugin>
-                          
+                   <plugin>       
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-compiler-plugin</artifactId>
                     <version>3.6.1</version>
-                      <plugins>
-			<plugin>
+                      
+			
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-war-plugin</artifactId>
 				<version>3.3.1</version>
 			</plugin>
-		</plugins>
+		
                    
                     <configuration>
                         <verbose>true</verbose>
